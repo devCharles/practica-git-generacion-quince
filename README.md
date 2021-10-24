@@ -5,7 +5,6 @@
 3. Miguel Herrera @Micke1505
 4. Arturo Rios @ArturoRiosDev
 5. Emilio @EMMED
-6. Ismael MOnfil @biork23
 6. Erik Gutierrez @Erik0593
 7. Job Lopez @bojlk2
 8. Alberto Barragan @
