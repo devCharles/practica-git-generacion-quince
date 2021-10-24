@@ -9,6 +9,3 @@
 7. Job Lopez @bojlk2
 8. Alberto Barragan @albertobafi
 9. liliana Hernandez @sheislilieh
-
-
-
