@@ -6,3 +6,5 @@
 4. Arturo Rios @ArturoRiosDev
 5. Emilio @EMMED
 6. Ismael MOnfil @biork23
+6. Erik Gutierrez @Erik0593
+
