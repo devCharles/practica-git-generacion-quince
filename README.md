@@ -7,4 +7,8 @@
 5. Emilio @EMMED
 6. Erik Gutierrez @Erik0593
 7. Job Lopez @bojlk2
-8. liliana Hernandez @sheislilieh
+8. Alberto Barragan @albertobafi
+9. liliana Hernandez @sheislilieh
+
+
+
