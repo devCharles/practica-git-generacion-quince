@@ -7,4 +7,7 @@
 5. Emilio @EMMED
 6. Ismael MOnfil @biork23
 6. Erik Gutierrez @Erik0593
+7. Job Lopez @bojlk2
+8. Alberto Barragan @
+9. Ismael Monfil @biork23
 
