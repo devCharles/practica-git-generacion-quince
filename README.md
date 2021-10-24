@@ -11,3 +11,4 @@
 9. Ivonne Chavez @ivonne-scarlett
 10. Ismael Monfil @biork23
 11. Liliana Hernández @sheislilieh
+12. Juan Miguel Colorado @juanmcolorado
