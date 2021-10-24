@@ -9,4 +9,8 @@
 6. Alberto Barragan @albertobafi
 =======
 6. Erik Gutierrez @Erik0593
+<<<<<<< HEAD
+>>>>>>> main
+=======
+7. Job Lopez @bojlk2
 >>>>>>> main
