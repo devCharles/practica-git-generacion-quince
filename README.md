@@ -8,4 +8,5 @@
 6. Erik Gutierrez @Erik0593
 7. Job Lopez @bojlk2
 8. Alberto Barragan @albertobafi
-9. Juan Colorado @juanmcolorado
+9. Ivonne Chavez @ivonne-scarlett
+10. Juan Miguel Colorado @juanmcolorado
